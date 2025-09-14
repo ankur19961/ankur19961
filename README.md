@@ -103,8 +103,7 @@ me.say_hi()
 
 <div align="center">
 
-[![AI Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ankur19961&repo=ai-portfolio-app&theme=tokyonight)](https://github.com/ankur19961/ai-portfolio-app)
-[![Redfin Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=ankur19961&repo=redfin-housing-pipeline&theme=tokyonight)](https://github.com/ankur19961/redfin-housing-pipeline)
+[![AI Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ankur19961&repo=ai-portfolio-app&theme=tokyonight)]([https://github.com/ankur19961/ai-portfolio-app](https://ankur19961-portfolio-app-app-x8yyio.streamlit.app/))
 
 </div>
 
@@ -115,8 +114,8 @@ me.say_hi()
 <td width="50%">
 
 ### 🤖 **AI-Powered Portfolio App**
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF5722?style=flat-square&logo=firefox&logoColor=white)](your-portfolio-url)
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ankur19961/ai-portfolio-app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF5722?style=flat-square&logo=firefox&logoColor=white)](https://ankur19961-portfolio-app-app-x8yyio.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ankur19961/portfolio_app)
 
 **Revolutionary interactive portfolio featuring AnkBot - an AI assistant that answers professional questions in real-time**
 
