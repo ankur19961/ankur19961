@@ -142,7 +142,6 @@ me.say_hi()
 <td width="50%">
 
 ### ⚡ **Real-time Data Pipeline**
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ankur19961/kafka-streaming-pipeline)
 
 **High-throughput streaming pipeline processing millions of data points daily**
 
@@ -161,7 +160,6 @@ me.say_hi()
 ---
 
 ### 🏠 **Redfin Housing Analytics**
-[![GitHub](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ankur19961/redfin-housing-pipeline)
 
 **Comprehensive ETL pipeline analyzing 39M housing records with interactive dashboards**
 
@@ -277,7 +275,7 @@ timeline
 
 **📧 Reach out:** ankurshukla19961@gmail.com
 
-**🌐 Portfolio:** [Interactive AI Portfolio](your-portfolio-link)
+**🌐 Portfolio:** [Interactive AI Portfolio](https://ankur19961-portfolio-app-app-x8yyio.streamlit.app/)
 
 </div>
 
