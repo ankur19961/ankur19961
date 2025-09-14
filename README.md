@@ -103,7 +103,7 @@ me.say_hi()
 
 <div align="center">
 
-[![AI Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ankur19961&repo=ai-portfolio-app&theme=tokyonight)](https://ankur19961-portfolio-app-app-x8yyio.streamlit.app/)
+[![AI Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ankur19961&repo=portfolio_app&theme=tokyonight)](https://ankur19961-portfolio-app-app-x8yyio.streamlit.app/)
 
 </div>
 
